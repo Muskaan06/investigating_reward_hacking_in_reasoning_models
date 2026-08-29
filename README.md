@@ -1,6 +1,6 @@
-#**Investigating Reward Hacking in Reasoning Models**
+# Investigating Reward Hacking in Reasoning Models
 
-## **Abstract**
+## Abstract
 
 The assignment aims to investigate the reward seeking tendencies of
 various models where they choose to perform actions showing evaluation
